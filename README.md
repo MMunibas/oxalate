@@ -67,7 +67,7 @@ Oliver T. Unke and Markus Meuwly "PhysNet: A Neural Network for Predicting Energ
 Forces, Dipole Moments, and Partial Charges", J. Chem. Theory Comput., 2019,
 15, 6, 3678–3693
 
-#### For the Oxalate Anion PESs:
+#### For the Hydrogenoxalate PESs:
 
 
 
